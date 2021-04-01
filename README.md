@@ -1,4 +1,5 @@
 # nexyschan v2.kys
+<img src="https://github.com/nandemonogatari/nexyschan-commands/blob/main/nexys.png" alt="nexyschan" width="350">
 ```
 Commands:
 !hello                           hello @ 
