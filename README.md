@@ -5,35 +5,35 @@
 
 ### Main Commands
 ```
-!hello                           hello @ 
-(ded)!owner                           @ server owner
-(ded)!currweather [location]          ye
-(ded)!forecast [location]             mhm
-!thighs                          sends thigh pic
-!pfp [@user]                     sends their pfp
-!opgg [summname]                 opgg info
-!owo [message]                   owoify msg
-!smileyface                      :=)
-!!                               :=)
-!help [@user]                    mental support
-!helpo [@user]                   mental support, but retarded
-!girls                           xpecial girls
-!girlso                          same but retarded
-!mmmet                           random mmmet insta pic
-!latestm                         latest mmmet insta pic
-!game                            :=)
-!translate [lang] [text]         translate
-!corona [country]                corona stats for [country]
-!corona world                    global stats
-!corona lead                     top 10 most cases
-!corona graph [country]          graph for [country]
-!epal                            random league epal.gg
-!egirl                           random egirl pic
-!nitro                           check users with nitro
-!remindme [reminder] [<x>h][<y>m]
-!compress [with uploaded image]
-!convert [filetype] [with uploaded image]
-!stats                           sends server emoji stats
+!hello                              hello @ 
+(ded)!owner                             @ server owner
+(ded)!currweather [location]            ye
+(ded)!forecast [location]               mhm
+!thighs                             sends thigh pic
+!pfp [@user]                        sends their pfp
+!opgg [summname]                    opgg info
+!owo [message]                      owoify msg
+!smileyface                         :=)
+!!                                  :=)
+!help [@user]                       mental support
+!helpo [@user]                      mental support, but retarded
+!girls                              xpecial girls
+!girlso                             same but retarded
+!mmmet                              random mmmet insta pic
+!latestm                            latest mmmet insta pic
+!game                               :=)
+!translate [lang] [text]            translate
+!corona [country]                   corona stats for [country]
+!corona world                       global stats
+!corona lead                        top 10 most cases
+!corona graph [country]             graph for [country]
+!epal                               random league epal.gg
+!egirl                              random egirl pic
+!nitro                              check users with nitro
+!remindme [text] in [<x>h][<y>m]    ex: !remindme a in 1h20m
+!compress [img]
+!convert [filetype] [img]
+!stats                              sends server emoji stats
 ```
 ### Admin memes:
 ```
