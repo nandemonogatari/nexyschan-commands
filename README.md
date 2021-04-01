@@ -1,4 +1,4 @@
-# quarantined nexyschan v2.kys
+# Quarantined Nexyschan v2.kys
 
 <p align="center">
   <img src="https://github.com/nandemonogatari/nexyschan-commands/blob/main/nexys_corona.png?raw=true" alt="nexyschan" width="500">
