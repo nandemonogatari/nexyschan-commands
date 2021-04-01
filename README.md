@@ -3,7 +3,7 @@
 <img src="https://github.com/nandemonogatari/nexyschan-commands/blob/main/nexyschan.png?raw=true" alt="nexyschan" width="350">
 
 
-### Main Commands
+### Commands
 ```
 !hello                              hello @ 
 (ded)!owner                             @ server owner
@@ -34,14 +34,6 @@
 !compress [img]
 !convert [filetype] [img]
 !stats                              sends server emoji stats
-```
-### Admin memes:
-```
-!clear [x]        delete x messages
-!togglegif        gifspammeme
-!toggleauro       auromeme
-!togglepoki       poki tenor gifs
-!togglebgif       bullet gif
 ```
 ### Gifs
 ```
@@ -92,4 +84,12 @@ No Category:
 
 Type ;;help command for more info on a command.
 You can also type ;;help category for more info on a category.
+```
+### Admin memes
+```
+!clear [x]        delete x messages
+!togglegif        gifspammeme
+!toggleauro       auromeme
+!togglepoki       poki tenor gifs
+!togglebgif       bullet gif
 ```
