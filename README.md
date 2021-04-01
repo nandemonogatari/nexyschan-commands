@@ -1,7 +1,8 @@
-# nexyschan v2.kys
+# quarantined nexyschan v2.kys
 
-<img src="https://github.com/nandemonogatari/nexyschan-commands/blob/main/nexyschan.png?raw=true" alt="nexyschan" width="350">
-
+<p align="center">
+  <img src="https://github.com/nandemonogatari/nexyschan-commands/blob/main/nexys_corona.png?raw=true" alt="nexyschan" width="500">
+</p>
 
 ### Commands
 ```
