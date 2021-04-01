@@ -1,6 +1,6 @@
 # nexyschan v2.kys
 
-<img src="https://github.com/nandemonogatari/nexyschan-commands/blob/main/nexyschan.png" alt="nexyschan" width="350">
+<img src="https://github.com/nandemonogatari/nexyschan-commands/blob/main/nexyschan.png?raw=true" alt="nexyschan" width="350">
 
 
 # Main Commands
