@@ -1,5 +1,7 @@
 # nexyschan v2.kys
-<img src="https://github.com/nandemonogatari/nexyschan-commands/blob/main/nexys.png" alt="nexyschan" width="350">
+
+<img src="https://github.com/nandemonogatari/nexyschan-commands/blob/main/nexyschan.png" alt="nexyschan" width="350">
+
 ```
 Commands:
 !hello                           hello @ 
@@ -82,7 +84,7 @@ Music:
   stop    Stop the player and clear the playlist. Reserved for moderators.
   summon  Summons the bot to a voice channel.
   volume  Sets the volume of the player.
-​No Category:
+No Category:
   help    Shows this message
 
 Type ;;help command for more info on a command.
