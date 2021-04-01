@@ -3,7 +3,7 @@
 <img src="https://github.com/nandemonogatari/nexyschan-commands/blob/main/nexyschan.png?raw=true" alt="nexyschan" width="350">
 
 
-## Main Commands
+### Main Commands
 ```
 !hello                           hello @ 
 (ded)!owner                           @ server owner
@@ -35,15 +35,15 @@
 !convert [filetype] [with uploaded image]
 !stats                           sends server emoji stats
 ```
-# Admin memes:
+### Admin memes:
 ```
-!clear [x]                   delete x messages
-!togglegif                   gifspammeme
-!toggleauro                  auromeme
-!togglepoki                  poki tenor gifs
-!togglebgif                  bullet gif
+!clear [x]        delete x messages
+!togglegif        gifspammeme
+!toggleauro       auromeme
+!togglepoki       poki tenor gifs
+!togglebgif       bullet gif
 ```
-## Gifs
+### Gifs
 ```
 -dmonkey
 -kdab
@@ -69,26 +69,26 @@
 -yulid
 -yhammer
 ```
-## nexys voice (prefix = ;;)
+### nexys voice (prefix = ;;)
 ```
 Music:
-  join    Joins a voice channel.
-  leave   Clears the queue and leaves the voice channel.
-  log     Saves last 10 messages to check for bugs
-  loop    Loops the currently playing song.
-  now     Displays the currently playing song.
-  pause   Pauses the currently playing song.
-  play    Plays a song.
-  queue   Shows the player's queue.
-  remove  Removes a song from the queue at a given index.
-  resume  Resumes a currently paused song.
-  shuffle Shuffles the queue.
-  skip    Vote to skip a song. The requester can automatically skip.
-  stop    Stop the player and clear the playlist. Reserved for moderators.
-  summon  Summons the bot to a voice channel.
-  volume  Sets the volume of the player.
+  join          Joins a voice channel.
+  leave         Clears the queue and leaves the voice channel.
+  log           Saves last 10 messages to check for bugs
+  loop          Loops the currently playing song.
+  now           Displays the currently playing song.
+  pause         Pauses the currently playing song.
+  play          Plays a song.
+  queue         Shows the player's queue.
+  remove        Removes a song from the queue at a given index.
+  resume        Resumes a currently paused song.
+  shuffle       Shuffles the queue.
+  skip          Vote to skip a song. The requester can automatically skip.
+  stop          Stop the player and clear the playlist. Reserved for moderators.
+  summon        Summons the bot to a voice channel.
+  volume        Sets the volume of the player.
 No Category:
-  help    Shows this message
+  help          Shows this message
 
 Type ;;help command for more info on a command.
 You can also type ;;help category for more info on a category.
