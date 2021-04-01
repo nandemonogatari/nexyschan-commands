@@ -3,7 +3,7 @@
 <img src="https://github.com/nandemonogatari/nexyschan-commands/blob/main/nexyschan.png?raw=true" alt="nexyschan" width="350">
 
 
-# Main Commands
+## Main Commands
 ```
 !hello                           hello @ 
 (ded)!owner                           @ server owner
@@ -43,7 +43,7 @@
 !togglepoki                  poki tenor gifs
 !togglebgif                  bullet gif
 ```
-# Gifs
+## Gifs
 ```
 -dmonkey
 -kdab
@@ -69,7 +69,7 @@
 -yulid
 -yhammer
 ```
-# nexys voice (prefix = ;;)
+## nexys voice (prefix = ;;)
 ```
 Music:
   join    Joins a voice channel.
