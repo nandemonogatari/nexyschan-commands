@@ -2,8 +2,9 @@
 
 <img src="https://github.com/nandemonogatari/nexyschan-commands/blob/main/nexyschan.png" alt="nexyschan" width="350">
 
+
+# Main Commands
 ```
-Commands:
 !hello                           hello @ 
 (ded)!owner                           @ server owner
 (ded)!currweather [location]          ye
@@ -33,8 +34,17 @@ Commands:
 !compress [with uploaded image]
 !convert [filetype] [with uploaded image]
 !stats                           sends server emoji stats
--------------------------------------------------
-gifs:
+```
+# Admin memes:
+```
+!clear [x]                   delete x messages
+!togglegif                   gifspammeme
+!toggleauro                  auromeme
+!togglepoki                  poki tenor gifs
+!togglebgif                  bullet gif
+```
+# Gifs
+```
 -dmonkey
 -kdab
 -spank
@@ -58,16 +68,9 @@ gifs:
 -bhorny
 -yulid
 -yhammer
--------------------------------------------------
-admin memes:
-!clear [x]                   delete x messages
-!togglegif                   gifspammeme
-!toggleauro                  auromeme
-!togglepoki                  poki tenor gifs
-!togglebgif                  bullet gif
--------------------------------------------------
-nexys voice (prefix = ;;)
-
+```
+# nexys voice (prefix = ;;)
+```
 Music:
   join    Joins a voice channel.
   leave   Clears the queue and leaves the voice channel.
