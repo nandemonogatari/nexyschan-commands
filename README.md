@@ -35,6 +35,9 @@
 !compress [img]
 !convert [filetype] [img]
 !stats                              sends server emoji stats
+!check [$ticker]                    sends $ticker crypto values
+!check [$ticker1],[ticker2],...     yea
+!gas                                get current eth gasprices 
 ```
 ### Gifs
 ```
